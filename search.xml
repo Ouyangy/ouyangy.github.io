@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Test]]></title>
+    <url>%2F2017%2F05%2F31%2FTest%2F</url>
+    <content type="text"><![CDATA[1111Hello]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[title]]></title>
+    <url>%2F2017%2F05%2F31%2Ftitle%2F</url>
+    <content type="text"></content>
+  </entry>
+</search>
